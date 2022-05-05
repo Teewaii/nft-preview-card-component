@@ -192,7 +192,7 @@ body {
 
     .card {
         width: 40%;
-        min-height: 72vh;
+        max-height: 72vh;
     }
 
     .card .equi {
